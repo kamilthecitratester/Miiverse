@@ -199,7 +199,7 @@ just miiverse, idk what to put
 
 
 
-rverse reop: reverse
+rverse repo: reverse
 
 
 
